@@ -18,6 +18,7 @@ massLandfill.selection_mode = {"any-tile"}
 massLandfill.alt_selection_mode = {"any-tile"}
 massLandfill.selection_cursor_box_type = "entity"
 massLandfill.alt_selection_cursor_box_type = "entity"
+massLandfill.subgroup = "terrain"
 -- create the recipe prototype from scratch
 local recipe = {
   type = "recipe",
